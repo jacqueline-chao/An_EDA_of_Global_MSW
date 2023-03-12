@@ -1,2 +1,4 @@
-# An_EDA_of_Global_MSW
+# An Exploratory Data Analysis (EDA) of Global Municipal Solid Waste (MSW)
 This Python project is an exploratory data analysis, or EDA for short, of the country-level data set of the World Bank's "What a Waste" project's global database.
+
+Note: Please view [here](https://nbviewer.org/github/jacqueline-chao/An_EDA_of_Global_MSW/blob/9df4191d73249896d3d5a6a07e03ffd69d03f6a1/An%20Exploratory%20Data%20Analysis%20%28EDA%29%20of%20Global%20Municipal%20Solid%20Waste%20%28MSW%29.ipynb) for the best experience. The link will take you to the Jupyter Notebook Viewer, which is a popular Jupyter Notebook-sharing web application.
